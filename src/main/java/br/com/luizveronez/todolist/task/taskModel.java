@@ -22,4 +22,5 @@ public class taskModel {
     private String priority;
     private UUID idUser;
     
+    
 }
